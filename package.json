@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "name": "anagrams-finder",
+  "version": "1.0.0",
+  "description": "Find down anagrams from a given file",
+  "main": "index.js",
+  "author": "Girik Bajaj",
+  "license": "ISC"
+}
